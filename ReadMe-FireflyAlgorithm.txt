@@ -1,6 +1,6 @@
 ****************************************************************************************************
-Author:	Al Timofeyev
-Date:	June 17, 2019
+Author:	Rishabh Jaiswal
+Date:	Sept 28, 2020
 Desc:	This is how to compile and run the Firefly Algorithm using Processing IDE.
 
 Version:	1.0
