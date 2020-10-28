@@ -1,8 +1,7 @@
 # Optimization-Algorithm-Visualizer
 Visualized Basic Optimization Algorithms using Processing.
 
-Author:	Al Timofeyev  
-Date:	June 9, 2019  
+Date:	Sept 28 , 2020 
 NOTE: If used as a demonstration (in classroom/work), or in other projects, please give credit.  
 NOTE: Processing can be downloaded from https://processing.org/
 ****************************************************************************************************
@@ -15,7 +14,4 @@ Each program folder for each algorithm comes with:
 3.  Source code
 
 Optimization Algorithms May Include:
-1.  Genetic Algorithm
-2.  Differential Evolution
-3.  Particle Swarm Optimization
-4.  Firefly Algorithm
+1.  Firefly Algorithm
